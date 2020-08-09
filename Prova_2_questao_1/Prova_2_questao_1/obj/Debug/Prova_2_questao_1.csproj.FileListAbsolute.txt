@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\bin\Debug\Prova_2_questao_1.exe.config
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\bin\Debug\Prova_2_questao_1.exe
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\bin\Debug\Prova_2_questao_1.pdb
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\obj\Debug\Prova_2_questao_1.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\obj\Debug\Prova_2_questao_1.Form1.resources
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\obj\Debug\Prova_2_questao_1.Properties.Resources.resources
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\obj\Debug\Prova_2_questao_1.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\obj\Debug\Prova_2_questao_1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\obj\Debug\Prova_2_questao_1.exe
+C:\Users\lucas\source\repos\Prova_2_questao_1\Prova_2_questao_1\obj\Debug\Prova_2_questao_1.pdb

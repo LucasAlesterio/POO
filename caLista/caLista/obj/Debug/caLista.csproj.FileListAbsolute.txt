@@ -1,0 +1,8 @@
+c:\users\edgard\documents\visual studio 2015\Projects\caLista\caLista\bin\Debug\caLista.exe.config
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\caLista\caLista\obj\Debug\caLista.csprojAssemblyReference.cache
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\caLista\caLista\obj\Debug\caLista.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\caLista\caLista\bin\Debug\caLista.exe.config
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\caLista\caLista\bin\Debug\caLista.exe
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\caLista\caLista\bin\Debug\caLista.pdb
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\caLista\caLista\obj\Debug\caLista.exe
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\caLista\caLista\obj\Debug\caLista.pdb

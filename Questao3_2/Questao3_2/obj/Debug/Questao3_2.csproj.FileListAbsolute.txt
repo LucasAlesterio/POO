@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\bin\Debug\Questao3_2.exe.config
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\bin\Debug\Questao3_2.exe
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\bin\Debug\Questao3_2.pdb
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\obj\Debug\Questao3_2.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\obj\Debug\Questao3_2.Form1.resources
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\obj\Debug\Questao3_2.Properties.Resources.resources
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\obj\Debug\Questao3_2.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\obj\Debug\Questao3_2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\obj\Debug\Questao3_2.exe
+C:\Users\lucas\source\repos\Questao3_2\Questao3_2\obj\Debug\Questao3_2.pdb
